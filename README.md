@@ -1,13 +1,13 @@
 <font face = "Trebuchet MS">
 <div align="center">
-    <h2 align="center">Project Title</h2>
-    <p align="center">Project Description</p>
+    <h2 align="center">Tomori</h2>
+    <p align="center">Tomori is an all in one package, which was uploaded to GitHub and AlliedModders by our old member @Sples1.</p>
     <b>
-        <a href="https://github.com/K4ryuu/Project_Template/releases">Download</a>
+        <a href="https://github.com/K4ryuu/Tomori/releases">Download</a>
         ·
-        <a href="https://github.com/K4ryuu/Project_Template/issues">Report Bug</a>
+        <a href="https://github.com/K4ryuu/Tomori/issues">Report Bug</a>
         ·
-        <a href="https://github.com/K4ryuu/Project_Template/issues">Request Feature</a>
+        <a href="https://github.com/K4ryuu/Tomori/issues">Request Feature</a>
     </b>
     <br/>
     <b>Do not forget to give a ⭐ on the projects!</b><br/><br/>
