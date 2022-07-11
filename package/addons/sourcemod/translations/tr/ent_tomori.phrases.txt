@@ -1,0 +1,259 @@
+"Phrases"
+{
+	"Tomori Load Successful"
+	{
+		"tr"		"Tomori başarıyla başladı. Bütün modüller yüklendi."
+	}
+	"Tomori Load Denied"
+	{
+		"tr"		"Bu sunucu IP'sinin bu eklentiyi çalıştırmasına izin verilmiyor. Lütfen Entity ile iletişime geçin."
+	}
+	"Tomori NameChange ChangesLeft"
+	{
+		"tr"		"Cezalandırılmadan önce adınızı {1} kez daha değiştirebilirsiniz."
+	}
+	"Tomori NameChange Changes NoMore"
+	{
+		"tr"		"Cezalandırılmak istemiyorsanız isminizi bir daha değiştirmeyin. :c"
+	}
+	"Tomori NameChange Change Blocked Limit"
+	{
+		"tr"		"Yeniden adlandırma sınırına ulaştığınız için yeni adınız uygulanamadı."
+	}
+	"Tomori NameChange Change Blocked Illegal"
+	{
+		"tr"		"Kötü karakterler içerdiği için yeni adınız uygulanamadı."
+	}
+	"Tomori NameChange Changed Illegal"
+	{
+		"tr"		"Adınız geçersiz karakterler içerdiği için değiştirildi."
+	}
+	"Tomori NameChange Banned TooMuch"
+	{
+		"tr"		"{1}, adı birçok kez değiştirildiği için yasaklandı."
+	}
+	"Tomori NameChange Kicked TooMuch"
+	{
+		"tr"		"{1}, adı birçok kez değiştirildiği için atıldı."
+	}
+	"Tomori NameChange Banned CheatCopy"
+	{
+		"tr"		"{1}, NameCopy Hilesi nedeniyle yasaklandı."
+	}
+	"Tomori ChangedName"
+	{
+		"tr"		"{1} adı artık {2}."
+	}
+	"Tomori Connect"
+	{
+		"tr"		"{1} sunucuya katıldı. ({2})"
+	}
+	"Tomori Disconnect"
+	{
+		"tr"		"{1} sunucudan ayrıldı."
+	}
+	"Tomori ChangedTeam"
+	{
+		"tr"		"{1}, {2} ekibine katıldı."
+	}
+	"Tomori CvarChanged"
+	{
+		"tr"		"{1} değeri {2} olarak değiştirildi."
+	}
+	"Tomori CounterTerrorist"
+	{
+		"tr"		"Anti-Terörist"
+	}
+	"Tomori Terrorist"
+	{
+		"tr"		"Terörist"
+	}
+	"Tomori Spectator"
+	{
+		"tr"		"İzleyici"
+	}
+	"Tomori Filter ChatSwear"
+	{
+		"tr"		"Lütfen küfretme!"
+	}
+	"Tomori Filter ChatSwear OnceMore"
+	{
+		"tr"		"Lütfen küfretme! Seni bir daha uyarmayacağım!"
+	}
+	"Tomori Filter ChatSwear Blocked"
+	{
+		"tr"		"Mesajınız engellendi! Lütfen küfretme!"
+	}
+	"Tomori Filter ChatSwear Gagged"
+	{
+		"tr"		"{1} dakikadır küfür ettiğiniz için ağzı tıkalı!"
+	}
+	"Tomori ExtraCMD Alive"
+	{
+		"tr"		"Bu komutu kullanmak için hayatta olmalısın!"
+	}
+	"Tomori ExtraCMD BanHammer Announce"
+	{
+		"tr"		"{1} Ban-Hammer'ı çağırdı."
+	}
+	"Tomori ExtraCMD BanHammer Banned"
+	{
+		"tr"		"{1}, Ban-Hammer tarafından sunucudan atıldı."
+	}
+	"Tomori ExtraCMD BanHammer Reason"
+	{
+		"tr"		"{1} Ban-Hammer'ı kullandı."
+	}
+	"Tomori Profile KickInvisible"
+	{
+		"tr"		"Sunucuya katılamazsınız çünkü CS:GO oyun süreniz herkese açık değil"
+	}
+	"Tomori Profile KickNotEnough"
+	{
+		"tr"		"CS: GO'da {1} saatiniz var, ancak sunucu gereksinimi {2}"
+	}
+	"Tomori Profile KickNotEnough NonPrime"
+	{
+		"tr"		"CS:GO'da {1} saatiniz var, ancak Prime olmayan oyuncular için sunucu gereksinimi {2}"
+	}
+	"Tomori Profile KickPrimeOnly"
+	{
+		"tr"		"Sunucu Yalnızca Prime'dır"
+	}
+	"Tomori Profile KickLowLevel"
+	{
+		"tr"		"Steam Seviyeniz {1}, ancak sunucu gereksinimi {2}"
+	}
+	"Tomori Profile KickLowLevel NonPrime"
+	{
+		"tr"		"Steam Seviyeniz {1}, ancak Prime olmayan oyuncular için sunucu gereksinimi {2}"
+	}
+	"Tomori Player"
+	{
+		"tr"		"Oyuncu:"
+	}
+	"Tomori PlayerMenu"
+	{
+		"tr"		"Tomori Oyuncuları"
+	}
+	"Tomori NoLongerAvailable"
+	{
+		"tr"		"Seçilen oyuncu artık mevcut değil."
+	}
+	"Tomori UnableToTarget"
+	{
+		"tr"		"O oyuncuyu hedefleyemezsiniz."
+	}
+	"Tomori SteamLevel"
+	{
+		"tr"		"Steam Seviye"
+	}
+	"Tomori PlayHours"
+	{
+		"tr"		"Oyun Saatleri"
+	}
+	"Tomori Prime"
+	{
+		"tr"		"Seçkin Hesap"
+	}
+	"Tomori Yes"
+	{
+		"tr"		"Evet"
+	}
+	"Tomori No"
+	{
+		"tr"		"Hayır"
+	}
+	"Tomori UserID"
+	{
+		"tr"		"UserID"
+	}
+	"Tomori AdminControl"
+	{
+		"tr"		"Yönetici Komutları"
+	}
+	"Tomori AdminBan"
+	{
+		"tr"		"Oyuncuyu yasakla"
+	}
+	"Tomori AdminKick"
+	{
+		"tr"		"Oyuncuyu at"
+	}
+	"Tomori AdminGag"
+	{
+		"tr"		"Oyuncuyu Ağzını Tıka"
+	}
+	"Tomori AdminMute"
+	{
+		"tr"		"Oyuncuyu Sustur"
+	}
+	"Tomori AdminSilence"
+	{
+		"tr"		"Oyuncuyu Sessizleştir"
+	}
+	"Tomori ExtraInfo"
+	{
+		"tr"		"Oyuncu Bilgileri"
+	}
+	"Tomori CTBan Commands"
+	{
+		"tr"		"CT Yasaklama Komutları"
+	}
+	"Tomori CTBan BanCT"
+	{
+		"tr"		"Oyuncuyu CT'den yasakla"
+	}
+	"Tomori CTBan RemoveCTBan"
+	{
+		"tr"		"CT'den oyuncunun yasağını kaldır"
+	}
+	"Tomori CTBan ForceCT"
+	{
+		"tr"		"Oyuncuyu CT'ye zorla"
+	}
+	"Tomori CTBan Isbanned"
+	{
+		"tr"		"CT Yasaklama durumunu kontrol edin"
+	}
+	"Tomori Admin WriteTime"
+	{
+		"tr"		"Lütfen cezanın uzunluğunu (sayılarla) sohbete yazın veya iptal etmek için !cancel yazın."
+	}
+	"Tomori Admin WriteReason"
+	{
+		"tr"		"Lütfen cezanın nedenini sohbete yazın veya iptal etmek için !cancel yazın."
+	}
+	"Tomori Admin AbortSuccess"
+	{
+		"tr"		"Komut başarıyla iptal edildi."
+	}
+	"Tomori Admin InvalidTime"
+	{
+		"tr"		"Harf içerdiği için bu uzunluk geçersizdir."
+	}
+	"Tomori Filters BlockAdvert"
+	{
+		"tr"		"Lütfen bu sunucuda reklam vermeyin."
+	}
+	"Tomori Antislam Muted"
+	{
+		"tr"		"{1}, HLDJ veya SLAM'ı izinsiz kullandığı için kapatıldı."
+	}
+	"Tomori Stealth Connect"
+	{
+		"tr"		"{1} oyuna bağlandı"
+	}
+	"Tomori Stealth Disconnect"
+	{
+		"tr"		"Oyuncu {1} oyundan ayrıldı (Bağlantı kesildi)"
+	}
+	"Tomori ClearWep Overflow"
+	{
+		"tr"		"{1} tarafından düşürülen tüm silahlar, bir taşma nedeniyle temizlendi."
+	}
+	"Tomori ClearWep AdminClear"
+	{
+		"tr"		"{1} oyunculardan düşen tüm silahları temizledi."
+	}
+}

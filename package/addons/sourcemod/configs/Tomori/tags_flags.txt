@@ -1,0 +1,20 @@
+"Tomori_Tags_By_Flag"
+{
+	"z" //If a flag found at a player other values not scanned
+	{
+		"chat-tag"				"[Owner]"
+		"clan-tag"				"[Owner] -"
+		"chat-color"			"{red}"
+		"name-color"			"{red}"
+		"tag-color"				"{darkred}"
+	}
+	
+	"default" //Applied to player without steamid in list or any flag with values (LEAVE THIS LAST OR DELETE IT)
+	{
+		"chat-tag"				"[Member]"
+		"clan-tag"				"[Member] -"
+		"chat-color"			"{default}"
+		"name-color"			"{lightgreen}"
+		"tag-color"				"{lime}"
+	}
+}

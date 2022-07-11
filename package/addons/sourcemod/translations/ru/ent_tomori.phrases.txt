@@ -1,0 +1,259 @@
+"Phrases"
+{
+	"Tomori Load Successful"
+	{
+		"ru"		"Tomori успешно запущен. Все модули загружены."
+	}
+	"Tomori Load Denied"
+	{
+		"ru"		"Этот IP-адрес сервера не позволяет запускать этот плагин. Пожалуйста, свяжитесь с Entity."
+	}
+	"Tomori NameChange ChangesLeft"
+	{
+		"ru"		"Вы можете изменить свое имя ещё {1} раз(-а), прежде чем вас накажут."
+	}
+	"Tomori NameChange Changes NoMore"
+	{
+		"ru"		"Не меняйте имя снова, если не хотите, чтобы вас наказали. :c"
+	}
+	"Tomori NameChange Change Blocked Limit"
+	{
+		"ru"		"Не удалось применить новое имя, поскольку вы достигли предела переименования."
+	}
+	"Tomori NameChange Change Blocked Illegal"
+	{
+		"ru"		"Не удалось применить ваше новое имя, поскольку оно содержит недопустимые символы."
+	}
+	"Tomori NameChange Changed Illegal"
+	{
+		"ru"		"Ваше имя было изменено, так как оно содержит недопустимые символы."
+	}
+	"Tomori NameChange Banned TooMuch"
+	{
+		"ru"		"{1} был забанен, потому что менял имя слишком много раз."
+	}
+	"Tomori NameChange Kicked TooMuch"
+	{
+		"ru"		"{1} был исключен из игры из-за того, что менял имя слишком много раз."
+	}
+	"Tomori NameChange Banned CheatCopy"
+	{
+		"ru"		"{1} был забанен из-за чит-кода NameCopy."
+	}
+	"Tomori ChangedName"
+	{
+		"ru"		"{1} сменил имя на {2}."
+	}
+	"Tomori Connect"
+	{
+		"ru"		"{1} присоединяется к серверу. ({2})"
+	}
+	"Tomori Disconnect"
+	{
+		"ru"		"{1} покидает сервер."
+	}
+	"Tomori ChangedTeam"
+	{
+		"ru"		"{1} вступает к команде {2}."
+	}
+	"Tomori CvarChanged"
+	{
+		"ru"		"{1} изменено на {2}."
+	}
+	"Tomori CounterTerrorist"
+	{
+		"ru"		"Спецназовец"
+	}
+	"Tomori Terrorist"
+	{
+		"ru"		"Террорист"
+	}
+	"Tomori Spectator"
+	{
+		"ru"		"Наблюдатель"
+	}
+	"Tomori Filter ChatSwear"
+	{
+		"ru"		"Пожалуйста, не ругайтесь!"
+	}
+	"Tomori Filter ChatSwear OnceMore"
+	{
+		"ru"		"Пожалуйста, не ругайтесь! Больше предупреждать не буду!"
+	}
+	"Tomori Filter ChatSwear Blocked"
+	{
+		"ru"		"Ваше сообщение заблокировано! Пожалуйста, не ругайтесь!"
+	}
+	"Tomori Filter ChatSwear Gagged"
+	{
+		"ru"		"Вам заткнули рот за брань на {1} мин.!"
+	}
+	"Tomori ExtraCMD Alive"
+	{
+		"ru"		"Вы должны быть живы, чтобы использовать эту команду!"
+	}
+	"Tomori ExtraCMD BanHammer Announce"
+	{
+		"ru"		"{1} призвал Бан-Хаммер."
+	}
+	"Tomori ExtraCMD BanHammer Banned"
+	{
+		"ru"		"{1} был исключён с сервера Бан-Хаммером."
+	}
+	"Tomori ExtraCMD BanHammer Reason"
+	{
+		"ru"		"{1} использовал Бан-Хаммер."
+	}
+	"Tomori Profile KickInvisible"
+	{
+		"ru"		"Вы не можете подключиться к серверу, потому что ваше общее игровое время CS:GO не является общедоступным или владелец сервера не установил API-ключ."
+	}
+	"Tomori Profile KickNotEnough"
+	{
+		"ru"		"У вас есть {1} час(-а,-ов) в CS:GO, но сервер требует {2}"
+	}
+	"Tomori Profile KickNotEnough NonPrime"
+	{
+		"ru"		"У вас есть {1} час(-а,-ов) в CS:GO, но сервер требует {2} для игроков без прайм-статуса"
+	}
+	"Tomori Profile KickPrimeOnly"
+	{
+		"ru"		"Сервер только для игроков с прайм-статусом"
+	}
+	"Tomori Profile KickLowLevel"
+	{
+		"ru"		"Ваш уровень Steam равен {1}, но сервер требует {2}"
+	}
+	"Tomori Profile KickLowLevel NonPrime"
+	{
+		"ru"		"Ваш уровень Steam равен {1}, но сервер требует {2} для игроков без прайм-статуса"
+	}
+	"Tomori Player"
+	{
+		"ru"		"Игрок:"
+	}
+	"Tomori PlayerMenu"
+	{
+		"ru"		"Игроки Tomori"
+	}
+	"Tomori NoLongerAvailable"
+	{
+		"ru"		"Выбранный игрок больше не доступен."
+	}
+	"Tomori UnableToTarget"
+	{
+		"ru"		"Вы не можете выбрать этого игрока."
+	}
+	"Tomori SteamLevel"
+	{
+		"ru"		"Уровень Steam"
+	}
+	"Tomori PlayHours"
+	{
+		"ru"		"Наиграно часов"
+	}
+	"Tomori Prime"
+	{
+		"ru"		"Прайм"
+	}
+	"Tomori Yes"
+	{
+		"ru"		"Да"
+	}
+	"Tomori No"
+	{
+		"ru"		"Нет"
+	}
+	"Tomori UserID"
+	{
+		"ru"		"UserID"
+	}
+	"Tomori AdminControl"
+	{
+		"ru"		"Команды администратора"
+	}
+	"Tomori AdminBan"
+	{
+		"ru"		"Забанить игрока"
+	}
+	"Tomori AdminKick"
+	{
+		"ru"		"Выгнать игрока"
+	}
+	"Tomori AdminGag"
+	{
+		"ru"		"Заткнуть игрока"
+	}
+	"Tomori AdminMute"
+	{
+		"ru"		"Заглушить игрока"
+	}
+	"Tomori AdminSilence"
+	{
+		"ru"		"Заствить молчать игрока"
+	}
+	"Tomori ExtraInfo"
+	{
+		"ru"		"Информация об игроке"
+	}
+	"Tomori CTBan Commands"
+	{
+		"ru"		"Команды бана спецназа"
+	}
+	"Tomori CTBan BanCT"
+	{
+		"ru"		"Забанить выбор команды спецназа для игрока"
+	}
+	"Tomori CTBan RemoveCTBan"
+	{
+		"ru"		"Разабанить выбор команды спецназа для игрока"
+	}
+	"Tomori CTBan ForceCT"
+	{
+		"ru"		"Переместить игрока в команду спецназа"
+	}
+	"Tomori CTBan Isbanned"
+	{
+		"ru"		"Проверить статус бана за спецназ"
+	}
+	"Tomori Admin WriteTime"
+	{
+		"ru"		"Пожалуйста, введите продолжительность (с цифрами) наказания в чат или введите !cancel, чтобы отменить."
+	}
+	"Tomori Admin WriteReason"
+	{
+		"ru"		"Пожалуйста, введите причину наказания в чат или введите !cancel, чтобы отменить."
+	}
+	"Tomori Admin AbortSuccess"
+	{
+		"ru"		"Команда успешно прервана."
+	}
+	"Tomori Admin InvalidTime"
+	{
+		"ru"		"Эта длина недопустима, потому что она содержит буквы."
+	}
+	"Tomori Filters BlockAdvert"
+	{
+		"ru"		"Пожалуйста, не размещайте рекламу на этом сервере."
+	}
+	"Tomori Antislam Muted"
+	{
+		"ru"		"{1} был заглушён за использование HLDJ или SLAM без разрешения."
+	}
+	"Tomori Stealth Connect"
+	{
+		"ru"		"{1} вступает в игру"
+	}
+	"Tomori Stealth Disconnect"
+	{
+		"ru"		"{1} покидает игру (Отключён)"
+	}
+	"Tomori ClearWep Overflow"
+	{
+		"ru"		"Всё оружие, сброшенное игроком {1}, было очищено из-за переполнения."
+	}
+	"Tomori ClearWep AdminClear"
+	{
+		"ru"		"{1} очистил всё оружие, брошенное игроками."
+	}
+}

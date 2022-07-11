@@ -1,0 +1,102 @@
+<sm_banhammer>		|	!banhammer		-> Summon the banhammer, freezes everyone else. If you hit someone with it, he'll be banned
+<sm_aborthammer>	|	!aborthammer	-> Aborts the banhammer and restore your weapons
+<sm_player>			|	!player			-> Opens the player list and you can get information from player or execute commands fast
+<sm_stealth>		|	!stealth		-> Hides admin from player in spectator
+<sm_clearwep>		|	!clearwep		-> Clear all dropped weapons by players 
+<sm_tag>			|	!tag			-> Toggle the tags if you have
+
+
+
+NOTE: Cvars updates automatically, so you don't have to delete files.
+
+tomori_enabled							|	Enable or disable Tomori AI from Entity.
+sm_tomori_chat_banner					|	Change the prefix of messages.
+
+tomori_ai_enabled						|	Enable or disable AI module in tomori.
+tomori_ai_autoreply						|	Enable or disable autoreply
+tomori_ai_advert_enabled				|	Enable or disable advertisements
+tomori_ai_advert_time					|	Time between two adverts
+
+tomori_profile_enabled					|	Enable or disable profile module in tomori.
+tomori_profile_apikey					|	Api key to get Data from steam.
+tomori_profile_minhours					|	Minimum csgo playtime to join
+tomori_profile_minlevels				|	Minimum steam level to join
+tomori_profile_onlyprime				|	Enable or disable onlyprime mode (0 - Disable, 1 - Block Non-Prime, 2 - NonPrime with Custom Rules)
+tomori_profile_minhours_nonprime		|	Minimum csgo playtime to join for non prime players
+tomori_profile_minlevels_nonprime		|	Minimum steam level to join for non prime players
+tomori_profile_ignorevips				|	Disable vip check on joining (ADMFLAG_RESERVATION)
+tomori_profile_ignoreflag				|	Flag to pass check on join (if ignorevips is 1)
+
+tomori_watchadmin_enabled				|	Enable or disable watchadmin module in tomori.
+tomori_watchadmin_logmode				|	LogMode for WatchAdmin (0 - Disabled, 1 - Log All CMD, 2 - Log Custom CFG)
+
+tomori_tags_enabled						|	Enable or Disable Custom Tags module
+
+tomori_purge_enabled					|	(CREATE BACKUP) Enable or disable Purge module in tomori (CREATE BACKUP)
+tomori_purge_days						|	Amount of days to purge after
+tomori_purge_logging					|	Enable or disable Purge logging
+
+tomori_name_enabled						|	Enable or disable name module in tomori.
+tomori_name_extrachars					|	Add your custom chars to allow in names
+tomori_name_badname_autochange			|	Enable or disable change names with illegal characters
+tomori_name_badname_changeto			|	Bad named players will be rename to this
+tomori_name_maxchanges					|	How many times player allowed to change name in a map
+tomori_name_maxchanges_punishment		|	Punishment for bad name (0 - Just Block, 1 - Kick, 2 - Ban)
+tomori_namemaxchanges_bantime			|	Bantime for maxchange (if punishment type is ban)
+tomori_name_maxchanges_reason			|	Ban/Kick reason for bad name
+tomori_name_website_filter				|	Enable or disable change names with website in it
+tomori_name_ip_filter					|	Enable or disable change names with ip in it
+tomori_name_badword_filter				|	Enable or disable change names with bad words in it
+
+tomori_enforcer_enabled					|	Enable or disable Enforcer module
+
+tomori_antislam_enabled					|	Enable or disable Antislam module in Tomori
+tomori_antislam_immune_flag				|	Immune flag to HLDJ and SLAM mute
+tomori_antislam_punishment				|	Punishment mode for using HLDJ or SLAM (0 - Mute, 1 - Kick, 2 - Ban)
+tomori_antislam_reason					|	Punishment Reason for using HLDJ or SLAM
+tomori_antislam_mute_time				|	Ban Time for punishment
+tomori_antislam_ban_time				|	Mute Time for punishment
+tomori_antislam_logging					|	Enable or disable antislam logging (0 - Disable, 1 - Enabled)
+
+tomori_gathering_enabled				|	Enable or disable gathering module in tomori.
+tomori_gathering_flag					|	Flag to use sm_player
+
+tomori_filter_enabled					|	Enable or disable name module in tomori.
+tomori_filter_filterchat				|	Filter chat messaages for bad words?
+tomori_filter_warntime					|	How many times tomori warn player before punish
+tomori_filter_punishment				|	Punishment mode (0 - Warn, 1 - Block Msg, 2 - Gag, 3 - Kick, 4 - Ban)
+tomori_filter_gagtime					|	Gag time on swear (if punishmennt is 2 or warntime_gag is enabled)
+tomori_filter_bantime					|	Ban time on swear (if punishmennt is 4)
+tomori_filter_block_website				|	Block website adverts in chat?
+tomori_filter_block_ip					|	Block ip adverts in chat?
+tomori_filter_warntime_gag				|	Gag after x warn (for multi punishment)
+tomori_filter_block_website_whitelist	|	List of unfiltered URLs
+tomori_filter_block_ip_whitelist		|	List of unfiltered IPs
+
+
+tomori_extracmd_enabled					|	Enable or disable extracmd module in tomori.
+tomori_extracmd_banhammer_enabled		|	Enable or disable banhammer command.
+tomori_extracmd_banhammer_flag			|	Flag to use sm_banhammer
+tomori_extracmd_banhammer_bantime		|	Bantime for Ban-Hammer.
+tomori_extracmd_stealth_enabled			|	Enable or disable stealth command.
+tomori_extracmd_stealth_flag			|	Flag to use sm_stealth
+tomori_extracmd_clearwep_enabled		|	Enable or disable Clear Weapon command.
+tomori_extracmd_clearwep_flag			|	Flag to use sm_clearwep
+
+tomori_blocks_enabled					|	Enable or disable blocks module in tomori.
+tomori_blocks_friendlyfire				|	Enable or disable friendlyfire chat announce block  (0 - Disable, 1 - Enable)
+tomori_blocks_cashandpoint				|	Enable or disable cash and point chat announce (0 - Disable, 1 - Enable)
+tomori_blocks_radio						|	Enable or disable radio chat announce  (0 - Disable, 1 - Enable))
+tomori_blocks_teamchange				|	Change method of teamchange chat announce  (0 - Original, 1 - Custom, 2 - Block both)
+tomori_blocks_connect					|	Change method of connect chat announce  (0 - Original, 1 - Custom, 2 - Block both)
+tomori_blocks_disconnect				|	Change method of disconnect chat announce  (0 - Original, 1 - Custom, 2 - Block both)
+tomori_blocks_status					|	Enable or disable status block (0 - Disable, 1 - Enable)
+tomori_blocks_ping						|	Enable or disable block ping in console (0 - Enable, 1 - Disable)
+tomori_blocks_savedplayer				|	Enable or disable saved player chat announce block  (0 - Disable, 1 - Enable)
+tomori_blocks_symbol_exploit			|	Enable or disable symbol exploit prevention  (0 - Disable, 1 - Enable)
+
+tomori_autojoin_enabled					|	Enable or disable AutoJoin Module (0 - Disable, 1 - Enabled)
+tomori_autojoin_mode					|	AutJoin Mode (0 - Given Team with ConVar, 1 - AutoAssign)
+tomori_autojoin_team					|	Team to join automatically (1 - Spectator, 2 - Terrorist, 3 - Counter-Terrorist)
+
+tomori_nodisarm_enabled					|	Enable or disable disarm on fists hit for players. (0 - Turn on Disarm, 1 - Turn off Disarm)

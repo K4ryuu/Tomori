@@ -1,0 +1,259 @@
+"Phrases"
+{
+	"Tomori Load Successful"
+	{
+		"hu"		"Tomori sikeresen elindítva, minden modul betöltve."
+	}
+	"Tomori Load Denied"
+	{
+		"hu"		"Ez a szerver IP nincs engedélyezve a Tomori használatához. Vedd fel a kapcsolatot Entity-vel."
+	}
+	"Tomori NameChange ChangesLeft"
+	{
+		"hu"		"Te még nevet válthatsz {1}x, mielőtt büntetve lennél."
+	}
+	"Tomori NameChange Changes NoMore"
+	{
+		"hu"		"Szerintem ne változtasd meg mégegyszer a nevedet, ha nem szeretnél bűnhődni!!! :c"
+	}
+	"Tomori NameChange Change Blocked Limit"
+	{
+		"hu"		"Nem lett beállítva az új neved, mivel elérted a maximális névváltoztatás számát."
+	}
+	"Tomori NameChange Change Blocked Illegal"
+	{
+		"hu"		"Nem lett beállítva az új neved, mivel csúnya szavakat tartalmaz."
+	}
+	"Tomori NameChange Changed Illegal"
+	{
+		"hu"		"Nem lett beállítva az új neved, mivel illegális karaktereket tartalmaz."
+	}
+	"Tomori NameChange Banned TooMuch"
+	{
+		"hu"		"{1} ki lett bannolva, mivel túl sokszor váltott nevet."
+	}
+	"Tomori NameChange Kicked TooMuch"
+	{
+		"hu"		"{1} ki lett rúgva, mivel túl sokszor váltott nevet."
+	}
+	"Tomori NameChange Banned CheatCopy"
+	{
+		"hu"		"{1} ki lett bannolva névmásoló csalás miatt."
+	}
+	"Tomori ChangedName"
+	{
+		"hu"		"{1} neve mostantól: {2}."
+	}
+	"Tomori Connect"
+	{
+		"hu"		"{1} felcsatlakozott a szerverre. ({2})"
+	}
+	"Tomori Disconnect"
+	{
+		"hu"		"{1} elhagyta a szervert."
+	}
+	"Tomori ChangedTeam"
+	{
+		"hu"		"{1} csatlakozott a {2} csapatba."
+	}
+	"Tomori CvarChanged"
+	{
+		"hu"		"{1} változó erre változtatva: {2}."
+	}
+	"Tomori CounterTerrorist"
+	{
+		"hu"		"Terrorelhárítók"
+	}
+	"Tomori Terrorist"
+	{
+		"hu"		"Terroristák"
+	}
+	"Tomori Spectator"
+	{
+		"hu"		"Nézők"
+	}
+	"Tomori Filter ChatSwear"
+	{
+		"hu"		"Kérlek ne káromkodj!"
+	}
+	"Tomori Filter ChatSwear OnceMore"
+	{
+		"hu"		"Kérlek ne káromkodj! Nem figyelmeztetlek mégegyszer!"
+	}
+	"Tomori Filter ChatSwear Blocked"
+	{
+		"hu"		"Az üzeneted blockolva lett! Kérlek ne káromkodj!"
+	}
+	"Tomori Filter ChatSwear Gagged"
+	{
+		"hu"		"Le lettél némítva káromkodásért {1} percre!"
+	}
+	"Tomori ExtraCMD Alive"
+	{
+		"hu"		"Ezt a parancsot csak élők használhatják!"
+	}
+	"Tomori ExtraCMD BanHammer Announce"
+	{
+		"hu"		"{1} lehítva a Szent Ban-Hammer-t!"
+	}
+	"Tomori ExtraCMD BanHammer Banned"
+	{
+		"hu"		"{1} ki lett bannolva a szerverről a Szent Ban-Hammer által!"
+	}
+	"Tomori ExtraCMD BanHammer Reason"
+	{
+		"hu"		"{1} használta a Ban-Hammer-t."
+	}
+	"Tomori Profile KickInvisible"
+	{
+		"hu"		"Nem tudsz felcsatlakozni a szerverre, mert a CS:GO játékidőd nincs publikusra állítva vagy a szerver tulajdonosa nem állította be jól az API kulcsát."
+	}
+	"Tomori Profile KickNotEnough"
+	{
+		"hu"		"Neked {1} órád van CS:GO-ban, de a szerver  {2} órát követel!"
+	}
+	"Tomori Profile KickNotEnough NonPrime"
+	{
+		"hu"		"Neked {1} órád van CS:GO-ban, de a szerver {2} órát követel a nem prime-os játékosoktól!"
+	}
+	"Tomori Profile KickPrimeOnly"
+	{
+		"hu"		"Erre a szerverre csak Prime-mal rendelkező játékosok léphetnek fel!"
+	}
+	"Tomori Profile KickLowLevel"
+	{
+		"hu"		"A te Steam szinted {1}, de a szerver {2} szintet követel!"
+	}
+	"Tomori Profile KickLowLevel NonPrime"
+	{
+		"hu"		"A te Steam szinted {1}, de a szerver {2} szintet követel a nem prime-os játékosoktól!"
+	}
+	"Tomori Player"
+	{
+		"hu"		"Játékos:"
+	}
+	"Tomori PlayerMenu"
+	{
+		"hu"		"Játékosok"
+	}
+	"Tomori NoLongerAvailable"
+	{
+		"hu"		"A kiválasztott játékos már nem elérhető."
+	}
+	"Tomori UnableToTarget"
+	{
+		"hu"		"Nem tudod befogni ezt a játékost."
+	}
+	"Tomori SteamLevel"
+	{
+		"hu"		"Steam szint"
+	}
+	"Tomori PlayHours"
+	{
+		"hu"		"Játszott órák"
+	}
+	"Tomori Prime"
+	{
+		"hu"		"Prime"
+	}
+	"Tomori Yes"
+	{
+		"hu"		"Igen"
+	}
+	"Tomori No"
+	{
+		"hu"		"Nem"
+	}
+	"Tomori UserID"
+	{
+		"hu"		"UserID"
+	}
+	"Tomori AdminControl"
+	{
+		"hu"		"Admin parancsok"
+	}
+	"Tomori AdminBan"
+	{
+		"hu"		"Játékos kitiltása"
+	}
+	"Tomori AdminKick"
+	{
+		"hu"		"Játékos kirúgása"
+	}
+	"Tomori AdminGag"
+	{
+		"hu"		"Játékos chattiltása"
+	}
+	"Tomori AdminMute"
+	{
+		"hu"		"Játékos némítása"
+	}
+	"Tomori AdminSilence"
+	{
+		"hu"		"Játékos teljes elnémítása"
+	}
+	"Tomori ExtraInfo"
+	{
+		"hu"		"Játékos információk"
+	}
+	"Tomori CTBan Commands"
+	{
+		"hu"		"CT BAN parancsok"
+	}
+	"Tomori CTBan BanCT"
+	{
+		"hu"		"Játékos kitiltása CT-ből"
+	}
+	"Tomori CTBan RemoveCTBan"
+	{
+		"hu"		"Játékos kitiltásának feloldása CT-ből"
+	}
+	"Tomori CTBan ForceCT"
+	{
+		"hu"		"Játékos beerőszakolása CT-be"
+	}
+	"Tomori CTBan Isbanned"
+	{
+		"hu"		"Játékos CT BAN státuszának megvizsgálása"
+	}
+	"Tomori Admin WriteTime"
+	{
+		"hu"		"Kérlek írd be a büntetés időtartamát (számokkal) a chatre vagy írd be: !cancel ahhoz, hogy megszakítsd ezt a folyamatot."
+	}
+	"Tomori Admin WriteReason"
+	{
+		"hu"		"Kérlek írd be a büntetés okát a chatre vagy írd be: !cancel ahhoz, hogy megszakítsd ezt a folyamatot."
+	}
+	"Tomori Admin AbortSuccess"
+	{
+		"hu"		"Sikeresen félbeszakítottad a folyamatot."
+	}
+	"Tomori Admin InvalidTime"
+	{
+		"hu"		"A megadott időtartam érvénytelen, mivel betűket tartalmaz."
+	}
+	"Tomori Filters BlockAdvert"
+	{
+		"hu"		"Kérlek ne hirdess ezen a szerveren."
+	}
+	"Tomori Antislam Muted"
+	{
+		"hu"		"{1} le lett némítva, mivel HLDJ/SLAM alkalmazást használt engedély nélkül."
+	}
+	"Tomori Stealth Connect"
+	{
+		"hu"		"{1} has joined the game"
+	}
+	"Tomori Stealth Disconnect"
+	{
+		"hu"		"{1} left the game (Disconnected)"
+	}
+	"Tomori ClearWep Overflow"
+	{
+		"hu"		"{1} által eldobott fegyverek tötölve lettek túlcsordulás miatt."
+	}
+	"Tomori ClearWep AdminClear"
+	{
+		"hu"		"{1} törölte az összes játékos által eldobott fegyvert."
+	}
+}

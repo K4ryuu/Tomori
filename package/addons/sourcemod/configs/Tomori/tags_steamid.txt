@@ -1,0 +1,11 @@
+"Tomori_Tags_By_SteamID"
+{
+	"76561198345583467" //Entity
+	{
+		"chat-tag"				"[Tomori]"
+		"clan-tag"				"[Tomori] -"
+		"chat-color"			"{rainbow}"
+		"name-color"			"{random}"
+		"tag-color"				"{orchid}"
+	}
+}

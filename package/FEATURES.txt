@@ -1,0 +1,89 @@
+FEATURE LIST:
+	> Autochat					-	Advertise randomly selected text from your configs
+	> Autoreply					- 	React to teached sentences
+		> Supports
+			> Actions 			-	sm_slap {userid} 50
+			> Messages			-	"Don't say that!"
+			> Flags				-	To trigger the sentence
+			> Block				-	Blocks the player's message triggered the react
+			> Typespeed 		-	Set bot reply speed
+			> Multi answer		-	Randomly selected from given answer variables
+			> Multi sentences	-	React on multi sentences with same actions
+			> Formats			-	{name}, {steamid}, {userid}, {ip}
+	> Prime Minimum hour		-	Set minimum CS:GO Playtime to join as Prime player
+	> Prime Minimum level		-	Set minimum steam level to join as Prime player
+	> Non-Prime Minimum hour	-	Set minimum CS:GO Playtime to join as Non-Prime player
+	> Non-Prime Minimum level	-	Set minimum steam level to join as Non-Prime player
+	> Block Non-Prime			-	Option to block fully Non-Prime players
+	> IgnoreFlag				-	Ignore Profile Checks for specified flag (only one yet)
+	> Adminlog with 3 modes		-	0 - Disabled, 1 - Log All CMD, 2 - Log Custom CFG List
+	> Website filter			-	Filters chat from website advertisements
+	> IP filter					-	Filters chat from ip advertisements
+	> Swear filter				-	Filter chat from swearing from a custom list
+		> Supports
+			> Warns				-	Custom amount of warns before punishments
+			> Punishments		-	0 - Warn, 1 - Block Msg, 2 - Gag, 3 - Kick, 4 - Ban
+			> Multi-Punishment	-	Example: gag from 3 warn, ban from 5 warn
+			> Custom-Times		-	Custom ban and gag time for chat filters
+	> NameCheck					-	Name checks
+		> Supports
+			> Custom-Template	-	You can set word to change names to + random numbers (Changed513551)
+			> AutoChange		-	Automatically change name on join with prohibited characters to your Custom-Template
+			> CustomChars		-	You can allow your ow characters + defaults
+			> MaxChange			-	Amount of name changes allowed in a map
+			> Punishment		-	Block name changes over maxchage (0 - Just Block, 1 - Kick, 2 - Ban)
+			> Customs			-	Custom ban time and kick/ban reason for that punishment
+			> HackBan			-	Automatically ban players who uses known name changer hacks
+			> Website filter	-	Filter websites from names
+			> IP filter			-	Filter IP's from names
+			> BadWord filter	-	Filter Bad Words from names
+	> SteamCheck				-	Check any player's prime status, playtime, steam level ingame any time
+	> Banhammer					-	Summons banhammer. Player hurt with that gets banned for specified time
+	> Stealth					-	Hide admins from player in spectator (Tomori supported)
+		> Extra					-	Disconnected and Connected message
+	> ClearWep
+		> Clear all dropper weapons with a command (by players)
+		> If a player dropped more than 10 weapons all of them gets cleared because of overflow
+	> Blocks
+		> Supports
+			> Friendly-fire		-	Block announcements
+			> Cash				-	Block announcements
+			> Points			-	Block announcements
+			> Radio				-	Block announcements
+			> Saved-Player		-	Block announcements
+			> Team-Change		-	Change method of teamchange chat announce  (0 - Original, 1 - Custom, 2 - Block both)
+			> Connect			-	Change method of connect chat announce  (0 - Original, 1 - Custom, 2 - Block both)
+			> Disconnect		-	Change method of disconnect chat announce  (0 - Original, 1 - Custom, 2 - Block both)
+			> Status			-	Blocks the use of command status in console (For full hide in stealth)
+			> Ping				-	Blocks the use of command ping in console (For full hide in stealth)
+	> Cookie Purge				-	Purge unused Cookies after x inactive days
+	> ConVar Enforcer			-	Enfore ConVar's and don't let it change to other values
+	> Anti-Slam
+		> Supports
+			> Punishment Mode	-	Three punishment mode (0 - Gag, 1 - Kick, 2 - Ban)
+			> Support SLAM		-	Automatically mutes SLAM users
+			> Support HLDJ		-	Automatically mutes HLDJ users
+	> Custom Tags
+		> Supports
+			> Custom Clan-Tags
+			> Custom Chat-Tags
+			> Custom Name-Colors
+			> Custom Chat-Colors
+			> Custom Tag-Colors
+			> Rainbow Colors
+			> Random Colors
+			> Flag supported
+			> SteamID supported
+			> Default (Without flag) supported
+	> Country Filters
+		> Supports
+			> CT Filter
+			> Server Connect Filter
+			> Whitelist
+			> Blacklist
+	> AutoJoin
+		> Supports
+			> Determine where to join automatically (Mode 1)
+			> Set where to join  (Mode 0)
+	> NoDisarm
+		> Turns off weapon drop on fist hit for players.

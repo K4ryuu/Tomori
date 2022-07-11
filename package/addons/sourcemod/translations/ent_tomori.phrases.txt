@@ -1,0 +1,289 @@
+"Phrases"
+{
+	"Tomori Load Successful"
+	{
+		"en"		"Tomori started successfully. All modules loaded."
+	}
+	"Tomori Load Denied"
+	{
+		"en"		"This server IP is not allowed to run this plugin. Please contact Entity."
+	}
+	"Tomori Tags Disabled"
+	{
+		"en"		"You have disabled you tag benefits."
+	}
+	"Tomori Tags Enabled"
+	{
+		"en"		"You have enabled your tag benefits."
+	}
+	"Tomori NameChange ChangesLeft"
+	{
+		"#format"	"{1:i}"
+		"en"		"You can change your name {1} more time(s) before getting punished."
+	}
+	"Tomori NameChange Changes NoMore"
+	{
+		"en"		"Do not change your name again, if you don't want to get punished. :c"
+	}
+	"Tomori NameChange Change Blocked Limit"
+	{
+		"en"		"Failed to apply your new name, because you reached the rename limit."
+	}
+	"Tomori NameChange Change Blocked Illegal"
+	{
+		"en"		"Failed to apply your new name, because it contains bad characters."
+	}
+	"Tomori NameChange Changed Illegal"
+	{
+		"en"		"Your name has been changed, because it contains illegal characters."
+	}
+	"Tomori NameChange Banned TooMuch"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} has been banned because changed name too many times."
+	}
+	"Tomori NameChange Kicked TooMuch"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} has been kicked because changed name too many times."
+	}
+	"Tomori NameChange Banned CheatCopy"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} has been banned because of NameCopy Cheat."
+	}
+	"Tomori ChangedName"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} name is now {2}."
+	}
+	"Tomori Connect"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} joined the server. ({2})"
+	}
+	"Tomori Disconnect"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} left the server."
+	}
+	"Tomori ChangedTeam"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} joined to team {2}."
+	}
+	"Tomori CvarChanged"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} value changed to {2}."
+	}
+	"Tomori CounterTerrorist"
+	{
+		"en"		"Counter-Terrorist"
+	}
+	"Tomori Terrorist"
+	{
+		"en"		"Terrorist"
+	}
+	"Tomori Spectator"
+	{
+		"en"		"Spectator"
+	}
+	"Tomori Filter ChatSwear"
+	{
+		"en"		"Please don't swear!"
+	}
+	"Tomori Filter ChatSwear OnceMore"
+	{
+		"en"		"Please don't swear! I won't warn you again!"
+	}
+	"Tomori Filter ChatSwear Blocked"
+	{
+		"en"		"Your message is blocked! Please don't swear!"
+	}
+	"Tomori Filter ChatSwear Gagged"
+	{
+		"#format"	"{1:i}"
+		"en"		"You have been gagged for swearing for {1} minutes!"
+	}
+	"Tomori ExtraCMD Alive"
+	{
+		"en"		"You have to be alive to use that command!"
+	}
+	"Tomori ExtraCMD BanHammer Announce"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} summoned the Ban-Hammer."
+	}
+	"Tomori ExtraCMD BanHammer Banned"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} has been knocked out from the server by the Ban-Hammer."
+	}
+	"Tomori ExtraCMD BanHammer Reason"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} used the Ban-Hammer."
+	}
+	"Tomori Profile KickInvisible"
+	{
+		"en"		"You can't join to the server, because your CS:GO playtime is not public or the Server Owner didn't set the API Key."
+	}
+	"Tomori Profile KickNotEnough"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"You have {1} hour in CS:GO, but server requirement is {2}"
+	}
+	"Tomori Profile KickNotEnough NonPrime"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"You have {1} hour in CS:GO, but server requirement is {2} for Non-Prime players"
+	}
+	"Tomori Profile KickPrimeOnly"
+	{
+		"en"		"The server is Prime Only"
+	}
+	"Tomori Profile KickLowLevel"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"Your Steam Level is {1}, but server requirement is {2}"
+	}
+	"Tomori Profile KickLowLevel NonPrime"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"Your Steam Level is {1}, but server requirement is {2} for Non-Prime players"
+	}
+	"Tomori Player"
+	{
+		"en"		"Player:"
+	}
+	"Tomori PlayerMenu"
+	{
+		"en"		"Tomori Players"
+	}
+	"Tomori NoLongerAvailable"
+	{
+		"en"		"The chosen player is no longer available."
+	}
+	"Tomori UnableToTarget"
+	{
+		"en"		"You are unable to target that player."
+	}
+	"Tomori SteamLevel"
+	{
+		"en"		"Steam Level"
+	}
+	"Tomori PlayHours"
+	{
+		"en"		"Play Hours"
+	}
+	"Tomori Prime"
+	{
+		"en"		"Prime"
+	}
+	"Tomori Yes"
+	{
+		"en"		"Yes"
+	}
+	"Tomori No"
+	{
+		"en"		"No"
+	}
+	"Tomori UserID"
+	{
+		"en"		"UserID"
+	}
+	"Tomori AdminControl"
+	{
+		"en"		"Admin Commands"
+	}
+	"Tomori AdminBan"
+	{
+		"en"		"Ban player"
+	}
+	"Tomori AdminKick"
+	{
+		"en"		"Kick player"
+	}
+	"Tomori AdminGag"
+	{
+		"en"		"Gag player"
+	}
+	"Tomori AdminMute"
+	{
+		"en"		"Mute player"
+	}
+	"Tomori AdminSilence"
+	{
+		"en"		"Silence player"
+	}
+	"Tomori ExtraInfo"
+	{
+		"en"		"Player Informations"
+	}
+	"Tomori CTBan Commands"
+	{
+		"en"		"CTBan Commands"
+	}
+	"Tomori CTBan BanCT"
+	{
+		"en"		"Ban player from CT"
+	}
+	"Tomori CTBan RemoveCTBan"
+	{
+		"en"		"Unban player from CT"
+	}
+	"Tomori CTBan ForceCT"
+	{
+		"en"		"Force player to CT"
+	}
+	"Tomori CTBan Isbanned"
+	{
+		"en"		"Check CTBan status"
+	}
+	"Tomori Admin WriteTime"
+	{
+		"en"		"Please type the length (with numbers) of the punishment to the chat or type !cancel to abort."
+	}
+	"Tomori Admin WriteReason"
+	{
+		"en"		"Please type the reason of the punishment to the chat or type !cancel to abort."
+	}
+	"Tomori Admin AbortSuccess"
+	{
+		"en"		"Successfully aborted the command."
+	}
+	"Tomori Admin InvalidTime"
+	{
+		"en"		"This length is invalid, because it contain letters."
+	}
+	"Tomori Filters BlockAdvert"
+	{
+		"en"		"Please do not advertise in this server."
+	}
+	"Tomori Antislam Muted"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} has been muted for using HLDJ or SLAM without permission."
+	}
+	"Tomori Stealth Connect"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} has joined the game"
+	}
+	"Tomori Stealth Disconnect"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} left the game (Disconnected)"
+	}
+	"Tomori ClearWep Overflow"
+	{
+		"#format"	"{1:N}"
+		"en"		"All weapons dropped by {1} have been cleared because of an overflow."
+	}
+	"Tomori ClearWep AdminClear"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} has cleared all weapons dropped by players."
+	}
+}
